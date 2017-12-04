@@ -1,0 +1,39 @@
+body{
+	margin: 0 auto;
+	background-color: #F78E69;
+  color: #FFFFFF;
+}
+.first-img, .second-img, .third-img{
+  background-image: url(../img/uno.jpg);
+  background-size: cover;
+  padding-bottom: 40em;
+  filter: grayscale(80%);
+  margin-bottom: 2%;
+}
+.about{
+  padding: 2%;
+}
+.color{
+  margin-top: 1%;
+  background-color: #F78E69;
+}
+.second-img{
+  background-image: url(../img/dos.jpg);
+  padding-bottom: 42em;
+  margin-top: 2%;
+}
+.border{
+  padding: 0;
+  border: 0.5em solid #FFFFFF;
+}
+.pictures{
+  padding: 3%;
+}
+.third-img{
+  background-image: url(../img/tres.jpg);
+  margin-top: 2%;
+  margin-bottom: 0;
+}
+.foot{
+  font-weight: bold;
+}
